@@ -1,0 +1,113 @@
+.container.colgrid {
+    padding: 37px;
+}
+
+.section.is-primary {
+    background-color: #8C43FF;
+    color: #fff;
+}
+
+.section.is-medium {
+    padding: 9rem 1.5rem;
+    padding-bottom: 9rem;
+}
+
+.has-text-centered {
+    text-align: center !important;
+}
+
+
+.bannerbg {
+    background: #8C43FF;
+}
+
+h1.title.is-spaced.is-size-3-desktop.is-size-4-mobile.bannerTitle {
+    color: #fff;
+    font-weight: 800;
+    line-height: 1.5;
+}
+
+.subtitle {
+    color: #fff !important;
+    line-height: 2.5;
+    font-weight: 600;
+
+}
+
+.navbar-burger {
+    background: #fff !important;
+    color: #000 !important;
+}
+
+.navbar-burger:hover {
+    color: #8C43FF !important;
+
+}
+
+#css,
+#js,
+#tools {
+    background: #8C43FF;
+
+}
+
+/**/
+.button.is-outlined:hover,
+.button.is-outlined:focus {
+    background-color: #8C43FF;
+    border-color: #8C43FF;
+    color: #fff;
+}
+
+
+
+.button.is-primary.is-outlined:hover,
+.button.is-primary.is-outlined:focus {
+    background-color: #8C43FF;
+    border-color: #8C43FF;
+    color: #fff;
+}
+
+
+
+.button.is-primary.is-outlined {
+    background-color: transparent;
+    border-color: #8C43FF;
+    color: #8C43FF;
+}
+
+.button.is-outlined {
+    border-width: 2px;
+}
+
+.button.is-rounded {
+    border-radius: 290486px;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.button.is-primary {
+    background-color: #8C43FF;
+    border-color: transparent;
+    color: #fff;
+}
+
+.button {
+    font-family: "europa", sans-serif;
+}
+
+a,
+.button {
+    transition: all .2s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    font-weight: 400;
+}
+
+
+
+
+
+
+
+
+/**/
